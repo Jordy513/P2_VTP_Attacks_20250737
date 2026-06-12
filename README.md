@@ -441,7 +441,7 @@ sudo python3 JordyRosario_20250737_VTP_Attack.py -i eth0 -a delete -v 20
 
 A continuación se detalla el índice de evidencias correspondientes a las fases de verificación, ejecución y mitigación del ataque, las cuales se encuentran alojadas de forma local en este repositorio dentro de la carpeta [screenshots](screenshots/):
 
-| # | Archivo de Evidencia | Descripción Técnica Detallada |
+| # | Archivo | Descripción |
 |---|---|---|
 | 1 | [01_topologia_vtp.png](screenshots/01_topologia_vtp.png) | Vista de la topología funcional en PNETLab. Se validan las etiquetas de nombres, matrícula (`20250737`), interfaces físicas conectadas y el direccionamiento base IP. |
 | 2 | [02_sniff_vtp_real.png](screenshots/02_sniff_vtp_real.png) | Salida en consola de Kali Linux operando bajo el modificador `--sniff-only`. Muestra la captura pasiva y extracción exitosa del dominio `ITLA_SEC` y la revisión actual del switch. |
