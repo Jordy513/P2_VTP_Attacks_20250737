@@ -493,7 +493,7 @@ SW2(config-if)# switchport nonegotiate
 
 ## 8. Video Demostrativo
 
-🎥 **[Ver demostración en YouTube](https://www.google.com/search?q=https://youtu.be/Enlace_Simulado_VTP_20250737)**
+🎥 **[Ver demostración en YouTube](https://youtu.be/pYTo_y4v9xU)**
 
 **Duración:** 4:52 minutos
 
@@ -515,7 +515,3 @@ SW2(config-if)# switchport nonegotiate
 * Biondi, P. et al. (2025). *Scapy Documentation: Advanced Layer 2 packet crafting*. https://scapy.readthedocs.io/
 * ITLA. (2026). *Material Didáctico de Seguridad de Redes Avanzada - Seguridad de Capa 2*.
 * Apoyo en documentación técnica estructurada y depuración de código mediante Inteligencia Artificial.
-
-```
-
-```
