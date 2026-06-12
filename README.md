@@ -495,7 +495,7 @@ SW2(config-if)# switchport nonegotiate
 
 🎥 **[Ver demostración en YouTube](https://youtu.be/hdXZLcPRuOU)**
 
-**Duración:** 4:52 minutos
+**Duración:** 4:35 minutos
 
 **Contenido del video:**
 
