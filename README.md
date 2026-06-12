@@ -359,7 +359,7 @@ Atacante (eth0) ──[Inyección Tramas Multicast VTP]──> SW1 (e0/0) ──
 ### Paso 1: Preparar las dependencias del entorno en Kali
 
 ```bash
-git clone [https://github.com/Jordy513/P2_VTP_Attacks_20250737.git](https://github.com/Jordy513/P1_VTP_Attack_20250737.git)
+git clone https://github.com/Jordy513/P2_VTP_Attacks_20250737.git
 cd P2_VTP_Attacks_20250737
 pip install scapy
 
@@ -380,9 +380,9 @@ sudo python3 JordyRosario_20250737_VTP_Attack.py -i eth0 --sniff-only
 [+] Summary capturado (76 bytes)
 [+] Subset  capturado (92 bytes)
 [+] Version VTP detectada : 1
-[+] Dominio detectado     : ITLA_SEC
+[+] Dominio detectado     : itla
 [+] Revision actual       : 4
-[+] Updater IP            : 20.25.37.2
+[+] Updater IP            : 0.0.0.0
 
 ```
 
