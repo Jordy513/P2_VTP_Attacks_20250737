@@ -301,10 +301,6 @@ def main():
 
 ---
 
-Aquí tienes las secciones **4. Documentación de la Red** y **4.1 Topología** adaptadas perfectamente a la captura de pantalla de PNETLab que enviaste (corrigiendo las interfaces exactas, eliminando la nube de conexión externa de la lógica del ataque, y manteniendo tu subred `20.25.37.0/24`).
-
----
-
 ## 4. Documentación de la Red
 
 ### 4.1 Topología
